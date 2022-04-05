@@ -1,4 +1,4 @@
-# C-Pay - Web 3.0 Blockchain Application
+# C-Pay: Web 3.0 Blockchain Application
 
 ## Introduction
 This is a code repository for the practise blockchain.
